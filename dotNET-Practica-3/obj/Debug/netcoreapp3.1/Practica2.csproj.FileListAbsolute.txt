@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\Practica2\bin\Debug\netcoreapp3.1\Practica2.exe
+C:\Users\super\source\repos\Practica2\bin\Debug\netcoreapp3.1\Practica2.deps.json
+C:\Users\super\source\repos\Practica2\bin\Debug\netcoreapp3.1\Practica2.runtimeconfig.json
+C:\Users\super\source\repos\Practica2\bin\Debug\netcoreapp3.1\Practica2.runtimeconfig.dev.json
+C:\Users\super\source\repos\Practica2\bin\Debug\netcoreapp3.1\Practica2.dll
+C:\Users\super\source\repos\Practica2\bin\Debug\netcoreapp3.1\Practica2.pdb
+C:\Users\super\source\repos\Practica2\obj\Debug\netcoreapp3.1\Practica2.csprojAssemblyReference.cache
+C:\Users\super\source\repos\Practica2\obj\Debug\netcoreapp3.1\Practica2.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\Practica2\obj\Debug\netcoreapp3.1\Practica2.AssemblyInfo.cs
+C:\Users\super\source\repos\Practica2\obj\Debug\netcoreapp3.1\Practica2.dll
+C:\Users\super\source\repos\Practica2\obj\Debug\netcoreapp3.1\Practica2.pdb

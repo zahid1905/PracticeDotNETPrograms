@@ -1,0 +1,11 @@
+D:\super\Documents\VisualStudio\Practica6\bin\Debug\netcoreapp3.1\Practica6.exe
+D:\super\Documents\VisualStudio\Practica6\bin\Debug\netcoreapp3.1\Practica6.deps.json
+D:\super\Documents\VisualStudio\Practica6\bin\Debug\netcoreapp3.1\Practica6.runtimeconfig.json
+D:\super\Documents\VisualStudio\Practica6\bin\Debug\netcoreapp3.1\Practica6.runtimeconfig.dev.json
+D:\super\Documents\VisualStudio\Practica6\bin\Debug\netcoreapp3.1\Practica6.dll
+D:\super\Documents\VisualStudio\Practica6\bin\Debug\netcoreapp3.1\Practica6.pdb
+D:\super\Documents\VisualStudio\Practica6\obj\Debug\netcoreapp3.1\Practica6.csprojAssemblyReference.cache
+D:\super\Documents\VisualStudio\Practica6\obj\Debug\netcoreapp3.1\Practica6.AssemblyInfoInputs.cache
+D:\super\Documents\VisualStudio\Practica6\obj\Debug\netcoreapp3.1\Practica6.AssemblyInfo.cs
+D:\super\Documents\VisualStudio\Practica6\obj\Debug\netcoreapp3.1\Practica6.dll
+D:\super\Documents\VisualStudio\Practica6\obj\Debug\netcoreapp3.1\Practica6.pdb

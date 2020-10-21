@@ -1,0 +1,11 @@
+D:\super\Documents\VisualStudio\Practica5\bin\Debug\netcoreapp3.1\Practica5.exe
+D:\super\Documents\VisualStudio\Practica5\bin\Debug\netcoreapp3.1\Practica5.deps.json
+D:\super\Documents\VisualStudio\Practica5\bin\Debug\netcoreapp3.1\Practica5.runtimeconfig.json
+D:\super\Documents\VisualStudio\Practica5\bin\Debug\netcoreapp3.1\Practica5.runtimeconfig.dev.json
+D:\super\Documents\VisualStudio\Practica5\bin\Debug\netcoreapp3.1\Practica5.dll
+D:\super\Documents\VisualStudio\Practica5\bin\Debug\netcoreapp3.1\Practica5.pdb
+D:\super\Documents\VisualStudio\Practica5\obj\Debug\netcoreapp3.1\Practica5.csprojAssemblyReference.cache
+D:\super\Documents\VisualStudio\Practica5\obj\Debug\netcoreapp3.1\Practica5.AssemblyInfoInputs.cache
+D:\super\Documents\VisualStudio\Practica5\obj\Debug\netcoreapp3.1\Practica5.AssemblyInfo.cs
+D:\super\Documents\VisualStudio\Practica5\obj\Debug\netcoreapp3.1\Practica5.dll
+D:\super\Documents\VisualStudio\Practica5\obj\Debug\netcoreapp3.1\Practica5.pdb
