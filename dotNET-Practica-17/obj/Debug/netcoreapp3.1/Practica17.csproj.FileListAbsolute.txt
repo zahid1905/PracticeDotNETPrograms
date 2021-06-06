@@ -1,0 +1,13 @@
+D:\super\Documents\VisualStudio\Practica17\bin\Debug\netcoreapp3.1\Practica17.exe
+D:\super\Documents\VisualStudio\Practica17\bin\Debug\netcoreapp3.1\Practica17.deps.json
+D:\super\Documents\VisualStudio\Practica17\bin\Debug\netcoreapp3.1\Practica17.runtimeconfig.json
+D:\super\Documents\VisualStudio\Practica17\bin\Debug\netcoreapp3.1\Practica17.runtimeconfig.dev.json
+D:\super\Documents\VisualStudio\Practica17\bin\Debug\netcoreapp3.1\Practica17.dll
+D:\super\Documents\VisualStudio\Practica17\bin\Debug\netcoreapp3.1\Practica17.pdb
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.csprojAssemblyReference.cache
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.csproj.CoreCompileInputs.cache
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.AssemblyInfoInputs.cache
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.AssemblyInfo.cs
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.dll
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.pdb
+D:\super\Documents\VisualStudio\Practica17\obj\Debug\netcoreapp3.1\Practica17.genruntimeconfig.cache
