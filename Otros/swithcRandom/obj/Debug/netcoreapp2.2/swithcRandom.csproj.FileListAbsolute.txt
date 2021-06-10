@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/bin/Debug/netcoreapp2.2/swithcRandom.deps.json
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/bin/Debug/netcoreapp2.2/swithcRandom.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/bin/Debug/netcoreapp2.2/swithcRandom.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/bin/Debug/netcoreapp2.2/swithcRandom.dll
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/bin/Debug/netcoreapp2.2/swithcRandom.pdb
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/obj/Debug/netcoreapp2.2/swithcRandom.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/obj/Debug/netcoreapp2.2/swithcRandom.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/obj/Debug/netcoreapp2.2/swithcRandom.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/obj/Debug/netcoreapp2.2/swithcRandom.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/obj/Debug/netcoreapp2.2/swithcRandom.dll
+/home/zahid/Documentos/ProgramasCSharp/swithcRandom/obj/Debug/netcoreapp2.2/swithcRandom.pdb

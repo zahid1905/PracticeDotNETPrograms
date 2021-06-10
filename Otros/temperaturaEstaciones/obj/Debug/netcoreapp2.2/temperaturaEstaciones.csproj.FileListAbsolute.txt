@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/bin/Debug/netcoreapp2.2/temperaturaEstaciones.deps.json
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/bin/Debug/netcoreapp2.2/temperaturaEstaciones.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/bin/Debug/netcoreapp2.2/temperaturaEstaciones.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/bin/Debug/netcoreapp2.2/temperaturaEstaciones.dll
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/bin/Debug/netcoreapp2.2/temperaturaEstaciones.pdb
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/obj/Debug/netcoreapp2.2/temperaturaEstaciones.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/obj/Debug/netcoreapp2.2/temperaturaEstaciones.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/obj/Debug/netcoreapp2.2/temperaturaEstaciones.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/obj/Debug/netcoreapp2.2/temperaturaEstaciones.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/obj/Debug/netcoreapp2.2/temperaturaEstaciones.dll
+/home/zahid/Documentos/ProgramasCSharp/temperaturaEstaciones/obj/Debug/netcoreapp2.2/temperaturaEstaciones.pdb
