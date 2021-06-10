@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/bin/Debug/netcoreapp2.2/operarArchivosTexto.deps.json
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/bin/Debug/netcoreapp2.2/operarArchivosTexto.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/bin/Debug/netcoreapp2.2/operarArchivosTexto.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/bin/Debug/netcoreapp2.2/operarArchivosTexto.dll
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/bin/Debug/netcoreapp2.2/operarArchivosTexto.pdb
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/obj/Debug/netcoreapp2.2/operarArchivosTexto.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/obj/Debug/netcoreapp2.2/operarArchivosTexto.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/obj/Debug/netcoreapp2.2/operarArchivosTexto.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/obj/Debug/netcoreapp2.2/operarArchivosTexto.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/obj/Debug/netcoreapp2.2/operarArchivosTexto.dll
+/home/zahid/Documentos/ProgramasCSharp/operarArchivosTexto/obj/Debug/netcoreapp2.2/operarArchivosTexto.pdb
