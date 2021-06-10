@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/bin/Debug/netcoreapp2.2/ejercicioMatriz.deps.json
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/bin/Debug/netcoreapp2.2/ejercicioMatriz.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/bin/Debug/netcoreapp2.2/ejercicioMatriz.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/bin/Debug/netcoreapp2.2/ejercicioMatriz.dll
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/bin/Debug/netcoreapp2.2/ejercicioMatriz.pdb
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/obj/Debug/netcoreapp2.2/ejercicioMatriz.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/obj/Debug/netcoreapp2.2/ejercicioMatriz.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/obj/Debug/netcoreapp2.2/ejercicioMatriz.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/obj/Debug/netcoreapp2.2/ejercicioMatriz.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/obj/Debug/netcoreapp2.2/ejercicioMatriz.dll
+/home/zahid/Documentos/ProgramasCSharp/ejercicioMatriz/obj/Debug/netcoreapp2.2/ejercicioMatriz.pdb

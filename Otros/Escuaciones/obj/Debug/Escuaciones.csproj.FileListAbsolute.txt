@@ -1,0 +1,14 @@
+D:\super\Documents\VisualStudio\Escuaciones\bin\Debug\Escuaciones.exe.config
+D:\super\Documents\VisualStudio\Escuaciones\bin\Debug\Escuaciones.exe
+D:\super\Documents\VisualStudio\Escuaciones\bin\Debug\Escuaciones.pdb
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.csprojAssemblyReference.cache
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.Form1.resources
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.Form2.resources
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.Properties.Resources.resources
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.csproj.GenerateResource.cache
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.csproj.CoreCompileInputs.cache
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.exe
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.pdb
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.Form3.resources
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.Form4.resources
+D:\super\Documents\VisualStudio\Escuaciones\obj\Debug\Escuaciones.Form5.resources
