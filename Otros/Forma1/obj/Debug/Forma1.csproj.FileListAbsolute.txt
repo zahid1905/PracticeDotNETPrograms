@@ -1,0 +1,10 @@
+D:\super\Documents\VisualStudio\Forma1\bin\Debug\Forma1.exe.config
+D:\super\Documents\VisualStudio\Forma1\bin\Debug\Forma1.exe
+D:\super\Documents\VisualStudio\Forma1\bin\Debug\Forma1.pdb
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.csprojAssemblyReference.cache
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.Form1.resources
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.Properties.Resources.resources
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.csproj.GenerateResource.cache
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.csproj.CoreCompileInputs.cache
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.exe
+D:\super\Documents\VisualStudio\Forma1\obj\Debug\Forma1.pdb

@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/obj/Debug/netcoreapp2.2/imprimirCosas.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/obj/Debug/netcoreapp2.2/imprimirCosas.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/obj/Debug/netcoreapp2.2/imprimirCosas.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/obj/Debug/netcoreapp2.2/imprimirCosas.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/bin/Debug/netcoreapp2.2/imprimirCosas.deps.json
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/bin/Debug/netcoreapp2.2/imprimirCosas.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/bin/Debug/netcoreapp2.2/imprimirCosas.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/bin/Debug/netcoreapp2.2/imprimirCosas.dll
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/bin/Debug/netcoreapp2.2/imprimirCosas.pdb
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/obj/Debug/netcoreapp2.2/imprimirCosas.dll
+/home/zahid/Documentos/ProgramasCSharp/imprimirCosas/obj/Debug/netcoreapp2.2/imprimirCosas.pdb
