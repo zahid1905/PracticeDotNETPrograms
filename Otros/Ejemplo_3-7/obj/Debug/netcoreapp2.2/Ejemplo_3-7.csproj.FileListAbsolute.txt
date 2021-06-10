@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/obj/Debug/netcoreapp2.2/Ejemplo_3-7.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/obj/Debug/netcoreapp2.2/Ejemplo_3-7.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/obj/Debug/netcoreapp2.2/Ejemplo_3-7.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/obj/Debug/netcoreapp2.2/Ejemplo_3-7.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/bin/Debug/netcoreapp2.2/Ejemplo_3-7.deps.json
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/bin/Debug/netcoreapp2.2/Ejemplo_3-7.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/bin/Debug/netcoreapp2.2/Ejemplo_3-7.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/bin/Debug/netcoreapp2.2/Ejemplo_3-7.dll
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/bin/Debug/netcoreapp2.2/Ejemplo_3-7.pdb
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/obj/Debug/netcoreapp2.2/Ejemplo_3-7.dll
+/home/zahid/Documentos/ProgramasCSharp/Ejemplo_3-7/obj/Debug/netcoreapp2.2/Ejemplo_3-7.pdb
