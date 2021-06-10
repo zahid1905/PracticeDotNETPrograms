@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/nose/bin/Debug/netcoreapp2.2/nose.deps.json
+/home/zahid/Documentos/ProgramasCSharp/nose/bin/Debug/netcoreapp2.2/nose.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/nose/bin/Debug/netcoreapp2.2/nose.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/nose/bin/Debug/netcoreapp2.2/nose.dll
+/home/zahid/Documentos/ProgramasCSharp/nose/bin/Debug/netcoreapp2.2/nose.pdb
+/home/zahid/Documentos/ProgramasCSharp/nose/obj/Debug/netcoreapp2.2/nose.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/nose/obj/Debug/netcoreapp2.2/nose.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/nose/obj/Debug/netcoreapp2.2/nose.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/nose/obj/Debug/netcoreapp2.2/nose.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/nose/obj/Debug/netcoreapp2.2/nose.dll
+/home/zahid/Documentos/ProgramasCSharp/nose/obj/Debug/netcoreapp2.2/nose.pdb
