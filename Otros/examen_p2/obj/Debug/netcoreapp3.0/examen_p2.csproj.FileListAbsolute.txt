@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/bin/Debug/netcoreapp3.0/examen_p2
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/bin/Debug/netcoreapp3.0/examen_p2.deps.json
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/bin/Debug/netcoreapp3.0/examen_p2.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/bin/Debug/netcoreapp3.0/examen_p2.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/bin/Debug/netcoreapp3.0/examen_p2.dll
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/bin/Debug/netcoreapp3.0/examen_p2.pdb
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/obj/Debug/netcoreapp3.0/examen_p2.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/obj/Debug/netcoreapp3.0/examen_p2.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/obj/Debug/netcoreapp3.0/examen_p2.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/obj/Debug/netcoreapp3.0/examen_p2.dll
+/home/zahid/Documentos/ProgramasCSharp/examen_p2/obj/Debug/netcoreapp3.0/examen_p2.pdb

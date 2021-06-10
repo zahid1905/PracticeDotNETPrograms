@@ -1,0 +1,14 @@
+C:\Users\super\source\repos\ExamenTercerP\bin\Debug\ExamenTercerP.exe.config
+C:\Users\super\source\repos\ExamenTercerP\bin\Debug\ExamenTercerP.exe
+C:\Users\super\source\repos\ExamenTercerP\bin\Debug\ExamenTercerP.pdb
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.csprojAssemblyReference.cache
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.menuCreditos.resources
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.menuPrincipal.resources
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.Properties.Resources.resources
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.csproj.GenerateResource.cache
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.exe
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.pdb
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.menuUsuario.resources
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.agregarMeses.resources
+C:\Users\super\source\repos\ExamenTercerP\obj\Debug\ExamenTercerP.ingresarParejas.resources
