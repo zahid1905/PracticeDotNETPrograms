@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form1</class>
+ <widget class="QWidget" name="Form1">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>763</width>
+    <height>450</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>7</pointsize>
+    <weight>75</weight>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="contextMenuPolicy">
+   <enum>Qt::DefaultContextMenu</enum>
+  </property>
+  <property name="acceptDrops">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Solucionador de Ecuaciones</string>
+  </property>
+  <widget class="QRadioButton" name="radio1">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>7</y>
+     <width>137</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="text">
+    <string>Sistema de 2 incognitas</string>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio2">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>30</y>
+     <width>89</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="text">
+    <string>Sistema lineal</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta1">
+   <property name="geometry">
+    <rect>
+     <x>12</x>
+     <y>9</y>
+     <width>93</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tipo de ecuación:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta2">
+   <property name="geometry">
+    <rect>
+     <x>12</x>
+     <y>56</y>
+     <width>101</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Grado de ecuacion:</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>53</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="etiqueta3">
+   <property name="geometry">
+    <rect>
+     <x>149</x>
+     <y>84</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>x^4 +</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="cuarto">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>81</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="tercero">
+   <property name="geometry">
+    <rect>
+     <x>188</x>
+     <y>81</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="segundo">
+   <property name="geometry">
+    <rect>
+     <x>265</x>
+     <y>81</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="primero">
+   <property name="geometry">
+    <rect>
+     <x>342</x>
+     <y>81</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="ultimo">
+   <property name="geometry">
+    <rect>
+     <x>407</x>
+     <y>81</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta4">
+   <property name="geometry">
+    <rect>
+     <x>226</x>
+     <y>84</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>x^3 +</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta5">
+   <property name="geometry">
+    <rect>
+     <x>303</x>
+     <y>84</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>x^2 +</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta6">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>84</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>x +</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta7">
+   <property name="geometry">
+    <rect>
+     <x>12</x>
+     <y>84</y>
+     <width>55</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Ecuación:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta8">
+   <property name="geometry">
+    <rect>
+     <x>12</x>
+     <y>110</y>
+     <width>47</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Sistema:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="x1">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>107</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="y1">
+   <property name="geometry">
+    <rect>
+     <x>176</x>
+     <y>107</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="c1">
+   <property name="geometry">
+    <rect>
+     <x>241</x>
+     <y>107</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="x2">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>133</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="y2">
+   <property name="geometry">
+    <rect>
+     <x>176</x>
+     <y>133</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="c2">
+   <property name="geometry">
+    <rect>
+     <x>241</x>
+     <y>133</y>
+     <width>32</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta9">
+   <property name="geometry">
+    <rect>
+     <x>149</x>
+     <y>110</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>x +</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta10">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>110</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>y =</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta11">
+   <property name="geometry">
+    <rect>
+     <x>149</x>
+     <y>136</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>x +</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="etiqueta12">
+   <property name="geometry">
+    <rect>
+     <x>214</x>
+     <y>136</y>
+     <width>33</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>y =</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button1">
+   <property name="geometry">
+    <rect>
+     <x>111</x>
+     <y>160</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ADELANTE!</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button2">
+   <property name="geometry">
+    <rect>
+     <x>192</x>
+     <y>160</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>LIMPIAR!</string>
+   </property>
+  </widget>
+  <widget class="QPlainTextEdit" name="consola">
+   <property name="geometry">
+    <rect>
+     <x>12</x>
+     <y>212</y>
+     <width>739</width>
+     <height>226</height>
+    </rect>
+   </property>
+   <property name="horizontalScrollBarPolicy">
+    <enum>Qt::ScrollBarAlwaysOff</enum>
+   </property>
+   <property name="sizeAdjustPolicy">
+    <enum>QAbstractScrollArea::AdjustIgnored</enum>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
