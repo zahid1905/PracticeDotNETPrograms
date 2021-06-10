@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/bin/Debug/netcoreapp3.0/lineasProduccion
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/bin/Debug/netcoreapp3.0/lineasProduccion.deps.json
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/bin/Debug/netcoreapp3.0/lineasProduccion.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/bin/Debug/netcoreapp3.0/lineasProduccion.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/bin/Debug/netcoreapp3.0/lineasProduccion.dll
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/bin/Debug/netcoreapp3.0/lineasProduccion.pdb
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/obj/Debug/netcoreapp3.0/lineasProduccion.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/obj/Debug/netcoreapp3.0/lineasProduccion.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/obj/Debug/netcoreapp3.0/lineasProduccion.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/obj/Debug/netcoreapp3.0/lineasProduccion.dll
+/home/zahid/Documentos/ProgramasCSharp/lineasProduccion/obj/Debug/netcoreapp3.0/lineasProduccion.pdb

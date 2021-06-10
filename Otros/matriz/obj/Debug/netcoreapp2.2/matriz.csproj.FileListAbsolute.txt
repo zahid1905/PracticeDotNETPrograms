@@ -1,0 +1,11 @@
+/home/zahid/Documentos/ProgramasCSharp/matriz/bin/Debug/netcoreapp2.2/matriz.deps.json
+/home/zahid/Documentos/ProgramasCSharp/matriz/bin/Debug/netcoreapp2.2/matriz.runtimeconfig.json
+/home/zahid/Documentos/ProgramasCSharp/matriz/bin/Debug/netcoreapp2.2/matriz.runtimeconfig.dev.json
+/home/zahid/Documentos/ProgramasCSharp/matriz/bin/Debug/netcoreapp2.2/matriz.dll
+/home/zahid/Documentos/ProgramasCSharp/matriz/bin/Debug/netcoreapp2.2/matriz.pdb
+/home/zahid/Documentos/ProgramasCSharp/matriz/obj/Debug/netcoreapp2.2/matriz.csprojAssemblyReference.cache
+/home/zahid/Documentos/ProgramasCSharp/matriz/obj/Debug/netcoreapp2.2/matriz.csproj.CoreCompileInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/matriz/obj/Debug/netcoreapp2.2/matriz.AssemblyInfoInputs.cache
+/home/zahid/Documentos/ProgramasCSharp/matriz/obj/Debug/netcoreapp2.2/matriz.AssemblyInfo.cs
+/home/zahid/Documentos/ProgramasCSharp/matriz/obj/Debug/netcoreapp2.2/matriz.dll
+/home/zahid/Documentos/ProgramasCSharp/matriz/obj/Debug/netcoreapp2.2/matriz.pdb
