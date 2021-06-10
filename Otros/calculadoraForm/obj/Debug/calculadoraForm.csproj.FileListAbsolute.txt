@@ -1,0 +1,13 @@
+C:\Users\super\source\repos\calculadoraForm\bin\Debug\calculadoraForm.exe.config
+C:\Users\super\source\repos\calculadoraForm\bin\Debug\calculadoraForm.exe
+C:\Users\super\source\repos\calculadoraForm\bin\Debug\calculadoraForm.pdb
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.csprojAssemblyReference.cache
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.Calculadora.resources
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.Creditos.resources
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.Menu.resources
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.Operaciones.resources
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.Properties.Resources.resources
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.csproj.GenerateResource.cache
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.exe
+C:\Users\super\source\repos\calculadoraForm\obj\Debug\calculadoraForm.pdb
